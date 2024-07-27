@@ -100,5 +100,54 @@
 
 }
 
+/* Box4 */
+.flag {
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    font-weight: 700;
+    background-color: #0f1111;
+}
 
+/* Box5 */
+.nav-signin {
+    font-size: 0.70rem;
 
+}
+
+.accounts {
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+
+/* Box6 */
+.returns {
+    font-size: 0.70rem;
+}
+
+.orders {
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+
+/* Box7 */
+.cart {
+
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.cart i {
+    font-size: 30px;
+}
+
+.cart p {
+    font-weight: 700;
+    font-size: 0.85rem;
+    padding-left: 3px;
+}
+
+/* Navbar Completed */
+
+/* Panel */
