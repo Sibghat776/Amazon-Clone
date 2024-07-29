@@ -65,7 +65,10 @@
     width: 510px;
     height: 40px;
     background-color: rgb(rgb(255, 136, 0), green, blue)
-    
+}
+
+.border2:hover {
+    border: 2px solid orange;
 }
 
 .nav-search > select {
@@ -107,6 +110,8 @@
     font-size: 1rem;
     font-weight: 700;
     background-color: #0f1111;
+    padding: 5px;
+
 }
 
 /* Box5 */
@@ -151,3 +156,48 @@
 /* Navbar Completed */
 
 /* Panel */
+.panel {
+    background-color: #232f3e;
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+
+.panel-bar {
+    margin-left: 20px;
+    color: #ffffff;
+    font-size: 0.90rem;
+    font-weight: 400;
+}
+
+.panel-bar2 {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    color: #ffffff;
+    margin-left: 30px;
+    font-size: 0.85rem;
+    font-weight: 300;
+}
+
+
+/* Hero-Section */
+.hero {
+    background-image: url(./Assists/hero-image.jpg);
+    background-size: cover;
+    height: 200px;
+}
+
+
+/* Boxes */
+.box1 {
+    height: 400px;
+    width: 340px;
+    background-color: white;
+    border:2px solid #0f1111;
+}
+
+.box-image {
+    background-image: url(./Assists/box1_image.jpg);
+    height: ;
+}
